@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.imie.test.TestBasicTennis" tests="20" skipped="0" failures="0" errors="0" timestamp="2016-04-14T14:24:40" hostname="imie-VirtualBox" time="0.064">
+  <properties/>
+  <testcase name="score_retourEgalite" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <testcase name="score_egalite" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <testcase name="score_avantageJ1" classname="org.imie.test.TestBasicTennis" time="0.001"/>
+  <testcase name="score_avantageJ2" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <testcase name="score_15_0" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <testcase name="score_40_0" classname="org.imie.test.TestBasicTennis" time="0.001"/>
+  <testcase name="score_15_15" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <testcase name="score_30_15" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <testcase name="score_30_30" classname="org.imie.test.TestBasicTennis" time="0.001"/>
+  <testcase name="score_0_0" classname="org.imie.test.TestBasicTennis" time="0.004"/>
+  <testcase name="score_retourEgalite" classname="org.imie.test.TestBasicTennis" time="0.002"/>
+  <testcase name="score_egalite" classname="org.imie.test.TestBasicTennis" time="0.001"/>
+  <testcase name="score_avantageJ1" classname="org.imie.test.TestBasicTennis" time="0.001"/>
+  <testcase name="score_avantageJ2" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <testcase name="score_15_0" classname="org.imie.test.TestBasicTennis" time="0.001"/>
+  <testcase name="score_40_0" classname="org.imie.test.TestBasicTennis" time="0.002"/>
+  <testcase name="score_15_15" classname="org.imie.test.TestBasicTennis" time="0.002"/>
+  <testcase name="score_30_15" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <testcase name="score_30_30" classname="org.imie.test.TestBasicTennis" time="0.001"/>
+  <testcase name="score_0_0" classname="org.imie.test.TestBasicTennis" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

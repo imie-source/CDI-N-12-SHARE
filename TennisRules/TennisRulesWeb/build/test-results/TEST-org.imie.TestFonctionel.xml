@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.imie.TestFonctionel" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-04-14T14:51:08" hostname="imie-VirtualBox" time="2.977">
+  <properties/>
+  <testcase name="testTitle" classname="org.imie.TestFonctionel" time="0.509"/>
+  <testcase name="test_15_0" classname="org.imie.TestFonctionel" time="0.387"/>
+  <testcase name="test_30_0" classname="org.imie.TestFonctionel" time="0.48"/>
+  <testcase name="test_40_0" classname="org.imie.TestFonctionel" time="0.561"/>
+  <testcase name="test_EverWin" classname="org.imie.TestFonctionel" time="0.883"/>
+  <testcase name="testInitScore" classname="org.imie.TestFonctionel" time="0.152"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
